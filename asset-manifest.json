@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MCQGenerator/static/css/main.96948dcc.chunk.css",
+    "main.js": "/MCQGenerator/static/js/main.bb31a2a5.chunk.js",
+    "main.js.map": "/MCQGenerator/static/js/main.bb31a2a5.chunk.js.map",
+    "runtime-main.js": "/MCQGenerator/static/js/runtime-main.d67b674e.js",
+    "runtime-main.js.map": "/MCQGenerator/static/js/runtime-main.d67b674e.js.map",
+    "static/js/2.74a87483.chunk.js": "/MCQGenerator/static/js/2.74a87483.chunk.js",
+    "static/js/2.74a87483.chunk.js.map": "/MCQGenerator/static/js/2.74a87483.chunk.js.map",
+    "static/js/3.63048114.chunk.js": "/MCQGenerator/static/js/3.63048114.chunk.js",
+    "static/js/3.63048114.chunk.js.map": "/MCQGenerator/static/js/3.63048114.chunk.js.map",
+    "index.html": "/MCQGenerator/index.html",
+    "static/css/main.96948dcc.chunk.css.map": "/MCQGenerator/static/css/main.96948dcc.chunk.css.map",
+    "static/js/2.74a87483.chunk.js.LICENSE.txt": "/MCQGenerator/static/js/2.74a87483.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d67b674e.js",
+    "static/js/2.74a87483.chunk.js",
+    "static/css/main.96948dcc.chunk.css",
+    "static/js/main.bb31a2a5.chunk.js"
+  ]
+}
